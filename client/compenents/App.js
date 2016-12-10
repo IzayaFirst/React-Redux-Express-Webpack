@@ -3,9 +3,8 @@ import React from 'react';
 class App extends React.Component {
 
   render(){
-    return(<h1>Hello react</h1>)
+    return(<h1>ssHello react</h1>)
   }
-  
 }
 
 
